@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cassandra-driver": "^4.7.2",
+    "ejs": "^3.1.10",
+    "expres": "^0.0.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.10.2",
+    "qrcode": "^1.5.3"
+  }
+}
